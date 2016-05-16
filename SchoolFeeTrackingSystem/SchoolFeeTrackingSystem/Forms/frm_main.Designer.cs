@@ -62,7 +62,6 @@
             this.lineShape3 = new Microsoft.VisualBasic.PowerPacks.LineShape();
             this.lineShape2 = new Microsoft.VisualBasic.PowerPacks.LineShape();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-         
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -74,7 +73,6 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
-
             this.panel1.Controls.Add(this.lbl_version);
             this.panel1.Controls.Add(this.btn_fumds);
             this.panel1.Controls.Add(this.pictureBox3);
@@ -368,7 +366,6 @@
             // pb_logo
             // 
             this.pb_logo.BackColor = System.Drawing.Color.Transparent;
-            this.pb_logo.Image = global::SchoolFeeTrackingSystem.Properties.Resources.sibalom_nhs_logo;
             this.pb_logo.Location = new System.Drawing.Point(930, 71);
             this.pb_logo.Name = "pb_logo";
             this.pb_logo.Size = new System.Drawing.Size(150, 150);
@@ -499,8 +496,6 @@
             this.timer1.Enabled = true;
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-           
-         
             // 
             // frm_main
             // 
