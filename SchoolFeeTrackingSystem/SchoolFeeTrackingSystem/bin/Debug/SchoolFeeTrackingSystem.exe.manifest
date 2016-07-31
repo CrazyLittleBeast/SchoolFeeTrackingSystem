@@ -242,7 +242,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tp455kcRgcidkXtp3CJ16vWjVtvXtKQ+NWv6dgwRwjM=</dsig:DigestValue>
+        <dsig:DigestValue>+9h/TJfaYMsG2LYUG3deOIJRnGR8Dynwvk/ozZJzqHI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -252,7 +252,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QfeKIyNfQydVHjmRU63F3XswiRyazSFBRnpzK1WHPZs=</dsig:DigestValue>
+      <dsig:DigestValue>qBTTy+reaA773QD5n+xS4AmGh7iRAfNKd0sELIsPiTY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DB\SFTS_DB_log.ldf" size="851968" writeableType="applicationData">
@@ -261,7 +261,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9jXW89IcnJjOv85FRXHfeNuBsnfrVOZap4HqB3AU/nQ=</dsig:DigestValue>
+      <dsig:DigestValue>WgjZEsikkDwXmdg/gVF6pf7bqVJojjrGshR6kraMtqQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SchoolFeeTrackingSystem.exe.config" size="1753">

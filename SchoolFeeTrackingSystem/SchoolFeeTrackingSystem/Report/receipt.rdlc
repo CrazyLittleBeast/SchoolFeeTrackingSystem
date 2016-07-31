@@ -550,7 +550,7 @@
       <ReportItems>
         <Image Name="school_Logo">
           <Source>Embedded</Source>
-          <Value>sibalomnhslogo</Value>
+          <Value />
           <Sizing>FitProportional</Sizing>
           <Top>0.09389in</Top>
           <Left>0.10986in</Left>
@@ -569,7 +569,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Sibalom National High School</Value>
+                  <Value>National High School</Value>
                   <Style>
                     <FontFamily>calibri Light</FontFamily>
                     <FontSize>12pt</FontSize>
@@ -601,7 +601,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Sibalom, Antique</Value>
+                  <Value />
                   <Style>
                     <FontFamily>calibri Light</FontFamily>
                   </Style>
