@@ -328,6 +328,7 @@
     </None>
     <None Include="DB\SFTS_DBDataSet.xss">
       <DependentUpon>SFTS_DBDataSet.xsd</DependentUpon>
+      <SubType>Designer</SubType>
     </None>
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">

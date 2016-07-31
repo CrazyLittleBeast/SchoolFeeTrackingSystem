@@ -211,14 +211,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.SqlServer.Types.dll" size="383576">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.SqlServer.Types.dll" size="390744">
       <assemblyIdentity name="Microsoft.SqlServer.Types" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NsPl79BzHM9ayaNBxIi0/RTGl0f1o/bkzZdqfBKIs7A=</dsig:DigestValue>
+        <dsig:DigestValue>fPUgU/PeHYMQ4bqUWa13Ip5WHb1W9cXtiTkjQz39xq4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -235,14 +235,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolFeeTrackingSystem.exe" size="1657344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolFeeTrackingSystem.exe" size="1236992">
       <assemblyIdentity name="SchoolFeeTrackingSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DSBjWW2xAuIE/x9qIcNTx87RgJQ1zengZFoHNmbR4uQ=</dsig:DigestValue>
+        <dsig:DigestValue>tp455kcRgcidkXtp3CJ16vWjVtvXtKQ+NWv6dgwRwjM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -252,7 +252,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wwMOlytlAMqvi3JV/JZsCeQwABT12tmgERfl92USF6I=</dsig:DigestValue>
+      <dsig:DigestValue>QfeKIyNfQydVHjmRU63F3XswiRyazSFBRnpzK1WHPZs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DB\SFTS_DB_log.ldf" size="851968" writeableType="applicationData">
@@ -261,7 +261,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TWprbp/MdFVIl8ktoL3TVhDyjd8sMZsBpM2N+0X4Vo0=</dsig:DigestValue>
+      <dsig:DigestValue>9jXW89IcnJjOv85FRXHfeNuBsnfrVOZap4HqB3AU/nQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SchoolFeeTrackingSystem.exe.config" size="1753">
